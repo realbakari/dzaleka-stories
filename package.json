@@ -17,8 +17,7 @@
     "knex": "^0.21.2",
     "knex-cleaner": "^1.3.0",
     "pg": "^8.3.0",
-    "sqlite3": "^5.0.0",
-    "heroku-postbuild": "npm install"
+    "sqlite3": "^5.0.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
